@@ -7,7 +7,7 @@ Currently, I'm a second-year Electronics and Communication Engineering (ECE) stu
 
 ### Skills
 - **Languages/Tools**: MATLAB, Simulink, Python, C
-- **Interests**: IoT, Image Processing, AI
+- **Interests**: IoT, VLSI, AI
 
 ### Contact Me
 - 📧 Email: [m.dousik@gmail.com](mailto:m.dousik@gmail.com)
