@@ -6,7 +6,7 @@ I'm a person with a keen interest in tackling challenges, learning, and continuo
 Currently, I'm a third-year Electronics and Communication Engineering (ECE) student at PSG iTech. I completed my schooling at Yuva Bharathi Public School (CBSE). 
 
 ### Skills
-- **Languages/Tools**: MATLAB, Simulink, Python, C
+- **Languages/Tools**: MATLAB, Simulink, Python, C, Verilog
 - **Interests**: IoT, VLSI, AI
 
 ### Contact Me
