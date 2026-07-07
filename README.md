@@ -1,17 +1,16 @@
 # Dousik Manokaran
 
-**Digital VLSI · RISC-V Microarchitecture · FPGA · ASIC Design**
+**Digital VLSI · Computer Organization**
 
 B.E. Electronics and Communication Engineering @ PSG iTech, Coimbatore  
-ISWDP Certified (IISc × Synopsys × Samsung SSIR) · Level 1 Certified, Level 2 In Progress
 
 ---
 
 ### What I work on
 
-I design hardware. My focus is RTL design, processor microarchitecture, and the RTL-to-GDSII flow, from writing synthesizable SystemVerilog to timing closure in Cadence Innovus.
+I design hardware. My focus is RTL design, processor microarchitecture, and the RTL-to-GDSII flow.
 
-Right now I'm finishing up the FPGA bring-up of **HaDes-V**, a fully pipelined RV32I soft-core processor I built from scratch in SystemVerilog: five stages, forwarding unit, machine-mode trap handling, and interrupt vectoring.
+Right now I'm finishing up the FPGA bring-up of **HaDes-V**, a fully pipelined RV32I soft-core processor I built from scratch in SystemVerilog
 
 ---
 
