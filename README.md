@@ -18,7 +18,7 @@ Most recently, my team **won first prize in the FPGA track at the IEEE EDS Edge 
 
 **[Systolic Squad](https://github.com/M-DOUSIK/systolic-squad)** — Depth-Estimation NPU on PolarFire SoC  
 16×16 INT8 systolic array · SystemVerilog · RISC-V bare-metal C · INT8 quantisation  
-Custom NPU in FPGA fabric running FastDepth and MiDaS monocular depth from a live camera. 6.7× faster than the on-chip CPU, bit-identical to the reference model. **1st Prize, FPGA Track, IEEE EDS Edge AI Hackathon 2026.**
+Custom NPU in FPGA fabric running FastDepth and MiDaS monocular depth from a live camera. 6.7× faster than the on-chip CPU, bit-identical to the reference model. **🏆 1st Prize, FPGA Track, IEEE EDS Edge AI Hackathon 2026.**
 
 **[MedSight](https://github.com/M-DOUSIK/MedSight)** — Offline Medication Dispenser on µT-Kernel  
 STM32N6 · µT-Kernel 3.0 RTOS · NPU face recognition · Embedded vision  
